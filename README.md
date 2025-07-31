@@ -32,14 +32,6 @@
 
 ---
 
-### 📌 Hakkımda
-
-- 👩‍💻 Junior Software & AI Developer  
-- 🤖 Python, OpenCV ve YOLO ile <span style="color:#ff69b4"><b>görüntü işleme</b></span> projeleri geliştiriyorum  
-- 🌐 PHP, HTML, CSS ve JavaScript ile web uygulamaları yazıyorum  
-- 🧠 SQL veritabanı kullanarak tam işlevli çözümler üretiyorum  
-
----
 
 ### 📊 GitHub İstatistikleri
 
@@ -49,8 +41,3 @@
 
 ---
 
-### 📫 İletişim
-
-- 🇹🇷 Türkiye  
-- 🔗 [GitHub](https://github.com/Esmahtn)  
-- 💬 [LinkedIn](https://linkedin.com/in/esmahatunakbulut)
