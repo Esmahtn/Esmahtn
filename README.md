@@ -1,7 +1,7 @@
 <h1 align="center">👋 Merhaba, ben Esma Hatun Akbulut</h1>
 
 <p align="center">
-  Junior Software & AI Developer • <span style="color:#ff69b4"><b>
+  Junior Software & AI Developer • <span style="color:#ff69b4"><b>Görüntü İşleme</b></span> meraklısı
 </p>
 
 ---
@@ -30,36 +30,27 @@
   <img src="https://img.shields.io/badge/ROS-RobotOS-22314E?style=flat&logo=ros&logoColor=white" height="30" />
 </p>
 
+---
+
+### 📌 Hakkımda
+
+- 👩‍💻 Junior Software & AI Developer  
+- 🤖 Python, OpenCV ve YOLO ile <span style="color:#ff69b4"><b>görüntü işleme</b></span> projeleri geliştiriyorum  
+- 🌐 PHP, HTML, CSS ve JavaScript ile web uygulamaları yazıyorum  
+- 🧠 SQL veritabanı kullanarak tam işlevli çözümler üretiyorum  
+
+---
 
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Esmahtn&show_icons=true&theme=github_dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmahtn&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
 ### 📫 İletişim
 
-- 🇹🇷 Türkiye
-- 🔗 [GitHub](https://github.com/Esmahtn)
-- 💬 [LinkedIn](https://linkedin.com/in/esmahatunakbulut) *(ekleyebilirsin)*
-
----
-
-<!--
-**Esmahtn/Esmahtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇹🇷 Türkiye  
+- 🔗 [GitHub](https://github.com/Esmahtn)  
+- 💬 [LinkedIn](https://linkedin.com/in/esmahatunakbulut)
