@@ -37,14 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Esmahtn&show_icons=true&theme=github_dark&count_private=true&cache_seconds=0" />
 </p>
 
-<p align="center">
-  <!-- Commit serisi (streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esmahtn&theme=github-dark&hide_border=true" />
-</p>
 
-<p align="center">
-  <!-- En çok kullanılan diller -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmahtn&layout=compact&theme=github_dark" />
-</p>
 
 ---
