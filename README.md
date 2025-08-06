@@ -30,7 +30,6 @@
 </p>
 
 ---
-
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
