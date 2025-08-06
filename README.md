@@ -1,11 +1,10 @@
 <h1 align="center">👋 Merhaba, ben Esma Hatun Akbulut</h1>
 
 <p align="center">
-  Junior Software & AI Developer • <span style="color:#ff69b4"><b>Görüntü İşleme</b></span> meraklısı
+  Junior Software & AI Developer • <span style="color:#ff69b4">
 </p>
 
 ---
-
 
 ### 🚀 Diller & Teknolojiler
 
@@ -30,6 +29,7 @@
 </p>
 
 ---
+
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
@@ -42,6 +42,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esmahtn&theme=github-dark&hide_border=true&cache_seconds=0" />
 </p>
 
-
-
----
+<p align="center">
+  <!-- En çok kullanılan diller -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmahtn&layout=compact&theme=github_dark&langs_count=10&hide_border=true&cache_seconds=0" />
+</p>
