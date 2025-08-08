@@ -41,16 +41,10 @@
 
 ---
 
-### 🔭 About Me
-
-I'm a motivated Junior Software and AI Developer with a strong passion. 
-I enjoy solving complex problems with cutting-edge technologies and continuously improving my skills.
-
----
 
 ### 📫 Get in Touch
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/esmahatun-akbulut)  
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/esmahatun-akbulut](https://www.linkedin.com/in/esma-hatun-akbulut/))  
 - 📧 esmahtnak@gmail.com 
 - 💼 Open to internship and junior developer roles!
 
