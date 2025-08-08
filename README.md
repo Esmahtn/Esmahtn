@@ -44,7 +44,7 @@
 
 ### 📫 Get in Touch
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/esmahatun-akbulut](https://www.linkedin.com/in/esma-hatun-akbulut/))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/esma-hatun-akbulut/)  
 - 📧 esmahtnak@gmail.com 
 - 💼 Open to internship and junior developer roles!
 
