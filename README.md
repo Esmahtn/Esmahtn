@@ -1,12 +1,12 @@
-<h1 align="center">👋 Merhaba, ben Esma Hatun Akbulut</h1>
+<h1 align="center">👋 Hello, I'm Esma Hatun Akbulut</h1>
 
 <p align="center">
-  Junior Software & AI Developer • <span style="color:#ff69b4">Görüntü İşleme ve Robotik tutkunu</span>
+  Junior Software & AI Developer 
 </p>
 
 ---
 
-### 🚀 Diller & Teknolojiler
+### 🚀 Languages & Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Esmahtn&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
@@ -41,9 +41,20 @@
 
 ---
 
+### 🔭 About Me
+
+I'm a motivated Junior Software and AI Developer with a strong passion. 
+I enjoy solving complex problems with cutting-edge technologies and continuously improving my skills.
+
+---
+
+### 📫 Get in Touch
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/esmahatun-akbulut)  
+- 📧 esmahtnak@gmail.com 
+- 💼 Open to internship and junior developer roles!
+
+---
 
 
-
-
-
-  
+*Thanks for visiting my profile! Feel free to connect and collaborate.* 😊
