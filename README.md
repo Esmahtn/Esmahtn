@@ -28,9 +28,7 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">   
-  <img src="https://github-readme-stats.vercel.app/api?username=Esmahtn&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" /> 
-</p>  
+
 
 <p align="center">   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esmahtn&theme=github-dark&hide_border=true" alt="GitHub Streak" /> 
