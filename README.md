@@ -6,8 +6,6 @@
 
 ---
 
-
-
 ### 🚀 Languages & Technologies  
 <p align="center">   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />   
@@ -28,13 +26,12 @@
 
 ### 📊 GitHub Stats  
 
-
 <p align="center">   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esmahtn&theme=github-dark&hide_border=true" alt="GitHub Streak" /> 
 </p>  
 
 <p align="center">   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmahtn&layout=compact&theme=github_dark&hide_border=true&hide=powershell,batchfile,cmake,shell,makefile" alt="Top Languages" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmahtn&theme=github_dark&hide_border=true&langs_count=20" alt="Top Languages" /> 
 </p>  
 
 ---
