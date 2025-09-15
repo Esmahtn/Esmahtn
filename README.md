@@ -31,7 +31,8 @@
 </p>  
 
 <p align="center">   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmahtn&theme=github_dark&hide_border=true&langs_count=20" alt="Top Languages" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Esmahtn&theme=github_dark" alt="Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Esmahtn&theme=github_dark" alt="Languages by Commit" />
 </p>  
 
 ---
