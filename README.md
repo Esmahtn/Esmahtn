@@ -18,13 +18,13 @@
   <tr>
     <td width="50%" valign="top">
       <strong>🇬🇧 English</strong><br><br>
-      - 🔍 <strong>Computer Vision & AI:</strong> Engineering real-time safety monitoring systems and advanced object detection pipelines using <strong>YOLOv11</strong> and <strong>OpenCV</strong> to enhance industrial intelligence.<br><br>
+      - 🔍 <strong>Computer Vision & AI:</strong> Engineering real-time safety monitoring systems and advanced object detection pipelines using <strong>SOTA Architectures (YOLO Series)</strong> and <strong>OpenCV</strong> to enhance industrial intelligence.<br><br>
       - 🎮 <strong>Unity & Game Dev:</strong> Designing high-fidelity industrial simulations and interactive 3D experiences using <strong>C#</strong> and <strong>Unity</strong>, focusing on digital twins and VR/AR applications.<br><br>
       - 🤖 <strong>Deep Learning:</strong> Developing and optimizing neural network architectures for specialized detection tasks and autonomous decision-making processes.
     </td>
     <td width="50%" valign="top">
       <strong>🇹🇷 Türkçe</strong><br><br>
-      - 🔍 <strong>Bilgisayarlı Görü ve YZ:</strong> Endüstriyel zekayı artırmak için <strong>YOLOv11</strong> ve <strong>OpenCV</strong> kullanarak gerçek zamanlı güvenlik izleme sistemleri ve gelişmiş nesne algılama yapıları geliştiriyorum.<br><br>
+      - 🔍 <strong>Bilgisayarlı Görü ve YZ:</strong> Endüstriyel zekayı artırmak için <strong>Güncel YOLO Mimarileri</strong> ve <strong>OpenCV</strong> kullanarak gerçek zamanlı güvenlik izleme sistemleri ve gelişmiş nesne algılama yapıları geliştiriyorum.<br><br>
       - 🎮 <strong>Unity ve Oyun Geliştirme:</strong> Dijital ikizler ve VR/AR uygulamalarına odaklanarak <strong>C#</strong> ve <strong>Unity</strong> ile yüksek doğruluklu endüstriyel simülasyonlar ve etkileşimli 3D deneyimler tasarlıyorum.<br><br>
       - 🤖 <strong>Derin Öğrenme:</strong> Özel algılama görevleri ve otonom karar verme süreçleri için sinir ağı mimarileri geliştiriyor ve optimize ediyorum.
     </td>
@@ -45,9 +45,9 @@
 **AI, Vision & Deep Learning**
 <p align="left">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" />
+  <img src="https://img.shields.io/badge/Object_Detection-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 **Simulation & Development Tools**
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
