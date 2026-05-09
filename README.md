@@ -13,34 +13,19 @@
 
 ---
 
-### 🚀 Focus Areas | Odak Alanlarım
+### 🚀 Focus Areas
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🇬🇧 English</strong><br><br>
+- 🔍 **AI & Computer Vision**  
+  Real-time object detection, image processing, and industrial safety monitoring systems with YOLO, OpenCV, and deep learning.
 
-      - 🔍 <strong>Computer Vision & AI:</strong> Developing real-time object detection and safety monitoring systems using <strong>YOLO Series</strong>, <strong>OpenCV</strong>, and deep learning-based pipelines for industrial use cases.<br><br>
+- 🌐 **Full-Stack Web Development**  
+  Responsive and data-driven web applications using React, Next.js, TypeScript, FastAPI, Flask, SQL, and modern UI practices.
 
-      - 🌐 <strong>Full-Stack Web Development:</strong> Building modern, responsive, and data-driven web applications using <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>FastAPI</strong>, <strong>Flask</strong>, and SQL-based databases.<br><br>
+- 🎮 **Unity & Simulation**  
+  Interactive 3D experiences, VR applications, and simulation-based systems with Unity and C#.
 
-      - 🎮 <strong>Unity & Simulation:</strong> Designing interactive 3D experiences, VR applications, and simulation-based systems using <strong>Unity</strong> and <strong>C#</strong>.<br><br>
-
-      - 🤖 <strong>Deep Learning:</strong> Working on specialized detection, classification, and AI-supported decision-making systems.
-    </td>
-    <td width="50%" valign="top">
-      <strong>🇹🇷 Türkçe</strong><br><br>
-
-      - 🔍 <strong>Bilgisayarlı Görü ve Yapay Zeka:</strong> Endüstriyel kullanım senaryoları için <strong>YOLO Serisi</strong>, <strong>OpenCV</strong> ve derin öğrenme tabanlı yapılar kullanarak gerçek zamanlı nesne tespiti ve güvenlik izleme sistemleri geliştiriyorum.<br><br>
-
-      - 🌐 <strong>Full-Stack Web Geliştirme:</strong> <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>FastAPI</strong>, <strong>Flask</strong> ve SQL tabanlı veritabanları ile modern, responsive ve veri odaklı web uygulamaları geliştiriyorum.<br><br>
-
-      - 🎮 <strong>Unity ve Simülasyon:</strong> <strong>Unity</strong> ve <strong>C#</strong> kullanarak etkileşimli 3D deneyimler, VR uygulamaları ve simülasyon tabanlı sistemler tasarlıyorum.<br><br>
-
-      - 🤖 <strong>Derin Öğrenme:</strong> Özel tespit, sınıflandırma ve yapay zeka destekli karar verme sistemleri üzerine çalışıyorum.
-    </td>
-  </tr>
-</table>
+- 🤖 **AI-Powered Applications**  
+  End-to-end AI solutions including NLP, classification, risk analysis, and intelligent decision-support systems.
 
 ---
 
@@ -100,6 +85,7 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Esmahtn&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esmahtn&theme=radical&hide_border=true" width="48%" />
@@ -108,7 +94,12 @@
 ---
 
 ### 📫 Connect with me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/esma-hatun-akbulut/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:esmahatunakbulut5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/esma-hatun-akbulut/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:esmahatunakbulut5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
