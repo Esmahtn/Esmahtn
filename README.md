@@ -15,25 +15,44 @@
 
 ### 🚀 Focus Areas | Odak Alanlarım
 
-#### 🔍 AI & Computer Vision | Yapay Zeka ve Bilgisayarlı Görü
-Real-time object detection, image processing, and industrial safety monitoring systems with YOLO, OpenCV, and deep learning-based pipelines.  
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-YOLO, OpenCV ve derin öğrenme tabanlı yapılarla gerçek zamanlı nesne tespiti, görüntü işleme ve endüstriyel güvenlik izleme sistemleri geliştiriyorum.
+### 🇬🇧 English
 
-#### 🌐 Full-Stack Web Development | Full-Stack Web Geliştirme
-Responsive and data-driven web applications using React, Next.js, TypeScript, FastAPI, Flask, SQL, and modern UI practices.  
+#### 🔍 AI & Computer Vision
+Developing real-time object detection, image processing, and industrial safety monitoring systems using **YOLO**, **OpenCV**, and deep learning-based pipelines.
 
-React, Next.js, TypeScript, FastAPI, Flask, SQL ve modern arayüz yaklaşımlarıyla responsive ve veri odaklı web uygulamaları geliştiriyorum.
+#### 🌐 Full-Stack Web Development
+Building responsive and data-driven web applications using **React**, **Next.js**, **TypeScript**, **FastAPI**, **Flask**, **SQL**, and modern UI practices.
 
-#### 🎮 Unity & Simulation | Unity ve Simülasyon
-Interactive 3D experiences, VR applications, and simulation-based systems using Unity and C#.  
+#### 🎮 Unity & Simulation
+Designing interactive 3D experiences, VR applications, and simulation-based systems using **Unity** and **C#**.
 
-Unity ve C# ile etkileşimli 3D deneyimler, VR uygulamaları ve simülasyon tabanlı sistemler geliştiriyorum.
+#### 🤖 AI-Powered Applications
+Developing end-to-end AI-supported applications including NLP, classification systems, risk analysis, and intelligent decision-support tools.
 
-#### 🤖 AI-Powered Applications | Yapay Zeka Destekli Uygulamalar
-End-to-end AI-supported applications including NLP, classification systems, risk analysis, and intelligent decision-support tools.  
+  </td>
+  <td width="50%" valign="top">
 
+### 🇹🇷 Türkçe
+
+#### 🔍 Yapay Zeka ve Bilgisayarlı Görü
+**YOLO**, **OpenCV** ve derin öğrenme tabanlı yapılarla gerçek zamanlı nesne tespiti, görüntü işleme ve endüstriyel güvenlik izleme sistemleri geliştiriyorum.
+
+#### 🌐 Full-Stack Web Geliştirme
+**React**, **Next.js**, **TypeScript**, **FastAPI**, **Flask**, **SQL** ve modern arayüz yaklaşımlarıyla responsive ve veri odaklı web uygulamaları geliştiriyorum.
+
+#### 🎮 Unity ve Simülasyon
+**Unity** ve **C#** kullanarak etkileşimli 3D deneyimler, VR uygulamaları ve simülasyon tabanlı sistemler geliştiriyorum.
+
+#### 🤖 Yapay Zeka Destekli Uygulamalar
 NLP, sınıflandırma sistemleri, risk analizi ve yapay zeka destekli karar destek araçları içeren uçtan uca uygulamalar geliştiriyorum.
+
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -83,23 +102,34 @@ NLP, sınıflandırma sistemleri, risk analizi ve yapay zeka destekli karar dest
 
 ### 📌 Featured Project Areas | Öne Çıkan Proje Alanları
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🇬🇧 English
+
 - Industrial AI safety monitoring systems  
-  Endüstriyel yapay zeka destekli güvenlik izleme sistemleri  
-
 - Real-time object detection applications  
-  Gerçek zamanlı nesne tespiti uygulamaları  
-
 - React / Next.js based dashboard applications  
-  React / Next.js tabanlı dashboard uygulamaları  
-
 - Full-stack AI-powered web applications  
-  Yapay zeka destekli full-stack web uygulamaları  
-
 - VR and simulation-based educational experiences  
-  VR ve simülasyon tabanlı eğitim deneyimleri  
-
 - Data tracking and reporting platforms  
-  Veri takip ve raporlama platformları  
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🇹🇷 Türkçe
+
+- Endüstriyel yapay zeka destekli güvenlik izleme sistemleri  
+- Gerçek zamanlı nesne tespiti uygulamaları  
+- React / Next.js tabanlı dashboard uygulamaları  
+- Yapay zeka destekli full-stack web uygulamaları  
+- VR ve simülasyon tabanlı eğitim deneyimleri  
+- Veri takip ve raporlama platformları  
+
+  </td>
+  </tr>
+</table>
 
 ---
 
