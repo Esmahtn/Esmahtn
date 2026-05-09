@@ -13,19 +13,27 @@
 
 ---
 
-### 🚀 Focus Areas
+### 🚀 Focus Areas | Odak Alanlarım
 
-- 🔍 **AI & Computer Vision**  
-  Real-time object detection, image processing, and industrial safety monitoring systems with YOLO, OpenCV, and deep learning.
+#### 🔍 AI & Computer Vision | Yapay Zeka ve Bilgisayarlı Görü
+Real-time object detection, image processing, and industrial safety monitoring systems with YOLO, OpenCV, and deep learning-based pipelines.  
 
-- 🌐 **Full-Stack Web Development**  
-  Responsive and data-driven web applications using React, Next.js, TypeScript, FastAPI, Flask, SQL, and modern UI practices.
+YOLO, OpenCV ve derin öğrenme tabanlı yapılarla gerçek zamanlı nesne tespiti, görüntü işleme ve endüstriyel güvenlik izleme sistemleri geliştiriyorum.
 
-- 🎮 **Unity & Simulation**  
-  Interactive 3D experiences, VR applications, and simulation-based systems with Unity and C#.
+#### 🌐 Full-Stack Web Development | Full-Stack Web Geliştirme
+Responsive and data-driven web applications using React, Next.js, TypeScript, FastAPI, Flask, SQL, and modern UI practices.  
 
-- 🤖 **AI-Powered Applications**  
-  End-to-end AI solutions including NLP, classification, risk analysis, and intelligent decision-support systems.
+React, Next.js, TypeScript, FastAPI, Flask, SQL ve modern arayüz yaklaşımlarıyla responsive ve veri odaklı web uygulamaları geliştiriyorum.
+
+#### 🎮 Unity & Simulation | Unity ve Simülasyon
+Interactive 3D experiences, VR applications, and simulation-based systems using Unity and C#.  
+
+Unity ve C# ile etkileşimli 3D deneyimler, VR uygulamaları ve simülasyon tabanlı sistemler geliştiriyorum.
+
+#### 🤖 AI-Powered Applications | Yapay Zeka Destekli Uygulamalar
+End-to-end AI-supported applications including NLP, classification systems, risk analysis, and intelligent decision-support tools.  
+
+NLP, sınıflandırma sistemleri, risk analizi ve yapay zeka destekli karar destek araçları içeren uçtan uca uygulamalar geliştiriyorum.
 
 ---
 
@@ -73,14 +81,25 @@
 
 ---
 
-### 📌 Featured Project Areas
+### 📌 Featured Project Areas | Öne Çıkan Proje Alanları
 
 - Industrial AI safety monitoring systems  
+  Endüstriyel yapay zeka destekli güvenlik izleme sistemleri  
+
 - Real-time object detection applications  
+  Gerçek zamanlı nesne tespiti uygulamaları  
+
 - React / Next.js based dashboard applications  
+  React / Next.js tabanlı dashboard uygulamaları  
+
 - Full-stack AI-powered web applications  
+  Yapay zeka destekli full-stack web uygulamaları  
+
 - VR and simulation-based educational experiences  
+  VR ve simülasyon tabanlı eğitim deneyimleri  
+
 - Data tracking and reporting platforms  
+  Veri takip ve raporlama platformları  
 
 ---
 
